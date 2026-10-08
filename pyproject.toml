@@ -22,7 +22,7 @@ where = ["src"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
-addopts = "-ra --basetemp=build/pytest"
+addopts = "-ra --basetemp=.pytest_tmp"
 
 [tool.ruff]
 line-length = 96

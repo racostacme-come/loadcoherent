@@ -8,7 +8,7 @@
     "paper/paper.tex": "b562940517bbcd03104451839a5476ab6f7a233e3b4ce2634f054387ae17fd94",
     "paper/numbers.tex": "20b0c01687f5edaed554507eb5746a3bc90adc4c0b7ffae1570eb4fcada545a2",
     "paper/build.py": "e649115bc35f414dd6e02639fcff943509d4bdd6e4081cd92bca0473929cfbb1",
-    "pyproject.toml": "4bdba6791958316c7e9f1d56427c58fb28c3a2017e6ecef04f423c50a57fefa8",
+    "pyproject.toml": "15cc13bff0070ca7909b0971f6484cefd82e59416744e9ce1ee398369204a5fc",
     "README.md": "424df44ced6d4eebd99580e4c7f4d66e37f860b72f6b17e8980785b7d3397b8a",
     "MANIFEST.in": "ed6cae8090244898c9c08592fe35f8364fc62ca59eee3694cf8e54d91735e480",
     "requirements-reproduced.txt": "9fcd7ec7e8bb39ba9522496753182d7090f4732206b11d3852a92b2e08869d38",
@@ -30,5 +30,5 @@
     "examples/results/path.png": "653660caae759822e9ed15cc9e92949b725064d6562204f18676435cf87e2b4a",
     "examples/results/risk.png": "fe6e72645f22c5ba4543b6f0f265157b93d1ad56eb85fd3581e901ebc365ac17"
   },
-  "pdf_sha256": "226e6b73166ca0e636510e29eec0cb9bd54270a6fc5b0ec455744ef68683594f"
+  "pdf_sha256": "112aa083f7f740bb53cf5008965b2769d9588ccd96a1fcc2343a2fd1c2c1d16e"
 }
